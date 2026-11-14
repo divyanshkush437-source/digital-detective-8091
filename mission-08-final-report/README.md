@@ -20,10 +20,10 @@ Repository organization, documentation, Python programming, number conversion an
 ## Final checklist
 - [x] Mission folder layout and draft READMEs prepared
 - [x] Python example and converter source files included
-- [ ] Student runs terminal and OS commands and records authentic observations
-- [ ] Student runs Python converter and records three tests
-- [ ] Student completes Git branch and Pull Request exercise
-- [ ] Student records safe DNS/network observations
+- [x] Student ran macOS verification and demonstrated core terminal file operations (additional Mission 2 exercises may remain)
+- [ ] Student runs the interactive Python converter with three inputs (automated self-test passed on Mac)
+- [x] Git branch created and Pull Request #1 merged (GitHub exercise demonstrated)
+- [x] Student shared DNS and ping observations, documented in Mission 7
 - [ ] Student reviews every README and explains learning in own words
 - [ ] Student confirms all mission files and public visibility
 - [ ] Student submits repository URL through instructor form
